@@ -1,6 +1,7 @@
 # EDA-MINI-PROJECT
 Health, Fitness &amp; Lifestyle Data Analysis
 [EDA MINI PROJECT.docx](https://github.com/user-attachments/files/33029727/EDA.MINI.PROJECT.docx)
+
 Dataset Introduction:
 
 This analysis utilizes the Health & Lifestyle Dataset (sourced from Kaggle: emmanualikku/health-lifestyle-dataset-synthetic), which captures physical, clinical, and behavioral indicators across 200 individual patients. The objective of this dataset is to investigate how lifestyle choices such as daily physical activity, sleep duration, exercise frequency, and smoking interact with physiological markers like BMI, blood pressure, and cholesterol to determine overall health risk.
